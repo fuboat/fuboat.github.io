@@ -10,13 +10,11 @@ description: Jingzhou Fu Personal Website
     justify-content: center;
   }
 </style>
-<div class="container">
-        <div class="center">
-        <a href="./pics/fujingzhou-300x300.jpg">
-            <img src="./pics/fujingzhou-300x300.jpg"
-                  title="Jingzhou Fu" alt="Jingzhou Fu"
-                  style="width: 150px;"/></a>
-        </div>
+<div class="center">
+<a href="./pics/fujingzhou-300x300.jpg">
+    <img src="./pics/fujingzhou-300x300.jpg"
+            title="Jingzhou Fu" alt="Jingzhou Fu"
+            style="width: 150px;"/></a>
 </div>
 
 Hello! My name is Jingzhou Fu. 
@@ -28,6 +26,6 @@ Email: fjz22 at mails.tsinghua.edu.cn
 ### Publications
 
 - **Sequence-Oriented DBMS Fuzzing** (ICDE 2023) \
-Jie Liang, Yaoguang Chen, Zhiyong Wu, *Jingzhou Fu*, Mingzhe Wang, Yu Jiang, Xiangdong Huang, Ting Chen, Jiashui Wang, Jiajia Li. ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/LEGO_ICDE2023.pdf))
+Jie Liang, Yaoguang Chen, Zhiyong Wu, **Jingzhou Fu**, Mingzhe Wang, Yu Jiang, Xiangdong Huang, Ting Chen, Jiashui Wang, Jiajia Li. ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/LEGO_ICDE2023.pdf))
 - **Griffin: Grammar-Free DBMS Fuzzing** (ASE 2022) \
-*Jingzhou Fu*, Jie Liang, Zhiyong Wu, Mingzhe Wang and Yu Jiang. ([paper]((http://wingtecher.com/themes/WingTecherResearch/assets/papers/ASE22-Griffin.pdf)))
+**Jingzhou Fu**, Jie Liang, Zhiyong Wu, Mingzhe Wang and Yu Jiang. ([paper]((http://wingtecher.com/themes/WingTecherResearch/assets/papers/ASE22-Griffin.pdf)))
