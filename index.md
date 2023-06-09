@@ -1,6 +1,6 @@
 ---
 layout: page
-# title: Jingzhou Fu
+title: Jingzhou Fu
 # tagline: Personal Website
 description: Jingzhou Fu Personal Website
 ---
