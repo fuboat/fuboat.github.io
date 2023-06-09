@@ -29,4 +29,4 @@ Email: fjz22 at mails.tsinghua.edu.cn
 - **Sequence-Oriented DBMS Fuzzing** (ICDE 2023) \
 Jie Liang, Yaoguang Chen, Zhiyong Wu, **Jingzhou Fu**, Mingzhe Wang, Yu Jiang, Xiangdong Huang, Ting Chen, Jiashui Wang, Jiajia Li. ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/LEGO_ICDE2023.pdf))
 - **Griffin: Grammar-Free DBMS Fuzzing** (ASE 2022) \
-**Jingzhou Fu**, Jie Liang, Zhiyong Wu, Mingzhe Wang and Yu Jiang. ([paper]((http://wingtecher.com/themes/WingTecherResearch/assets/papers/ASE22-Griffin.pdf)))
+**Jingzhou Fu**, Jie Liang, Zhiyong Wu, Mingzhe Wang and Yu Jiang. ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/ASE22-Griffin.pdf))
