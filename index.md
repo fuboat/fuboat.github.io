@@ -4,8 +4,20 @@ layout: page
 # tagline: Personal Website
 description: Jingzhou Fu Personal Website
 ---
-
-![](pics/fujingzhou-300x300.jpg)
+<style>
+  .center {
+    display: flex;
+    justify-content: center;
+  }
+</style>
+<div class="container">
+        <div class="center">
+        <a href="./pics/fujingzhou-300x300.jpg">
+            <img src="./pics/fujingzhou-300x300.jpg"
+                  title="Jingzhou Fu" alt="Jingzhou Fu"
+                  style="width: 150px;"/></a>
+        </div>
+</div>
 
 Hello! My name is Jingzhou Fu. 
 I am a PhD student at the [Software System Security Assurance Group](http://wingtecher.com/homeen) in Tsinghua University, supervised by Professor [Yu Jiang](https://sites.google.com/site/jiangyu198964/home).
