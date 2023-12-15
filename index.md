@@ -28,8 +28,8 @@ Email: fjz22 at mails.tsinghua.edu.cn
 
 - **Sedar: Obtaining High-Quality Seeds for DBMS Fuzzing via
   Cross-DBMS SQL Transfer** (ICSE 2024) \
-**Jingzhou Fu**, Jie Liang, Zhiyong Wu, Yu Jiang. (camera-ready version coming soon)
+<u>Jingzhou Fu</u>, Jie Liang, Zhiyong Wu, Yu Jiang. (camera-ready version coming soon)
 - **Sequence-Oriented DBMS Fuzzing** (ICDE 2023) \
-Jie Liang, Yaoguang Chen, Zhiyong Wu, **Jingzhou Fu**, Mingzhe Wang, Yu Jiang, Xiangdong Huang, Ting Chen, Jiashui Wang, Jiajia Li. ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/LEGO_ICDE2023.pdf))
+Jie Liang, Yaoguang Chen, Zhiyong Wu, <u>Jingzhou Fu</u>, Mingzhe Wang, Yu Jiang, Xiangdong Huang, Ting Chen, Jiashui Wang, Jiajia Li. ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/LEGO_ICDE2023.pdf))
 - **Griffin: Grammar-Free DBMS Fuzzing** (ASE 2022) \
-**Jingzhou Fu**, Jie Liang, Zhiyong Wu, Mingzhe Wang and Yu Jiang. ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/ASE22-Griffin.pdf))
+<u>Jingzhou Fu</u>, Jie Liang, Zhiyong Wu, Mingzhe Wang and Yu Jiang. ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/ASE22-Griffin.pdf))
