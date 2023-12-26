@@ -25,10 +25,11 @@ My research is focused on **DBMS fuzzing**.
 Email: fjz22 at mails.tsinghua.edu.cn 
 
 ### Publications
-
+- **Mozi: Discovering DBMS Bugs via Configuration-Based Equivalent Transformation** (ICSE 2024) \
+Jie Liang, Zhiyong Wu, <u>Jingzhou Fu</u>, Mingzhe Wang, Chengnian Sun, and Yu Jiang. ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/MOZI_ICSE24.pdf))
 - **Sedar: Obtaining High-Quality Seeds for DBMS Fuzzing via
   Cross-DBMS SQL Transfer** (ICSE 2024) \
-<u>Jingzhou Fu</u>, Jie Liang, Zhiyong Wu, Yu Jiang. (camera-ready version coming soon)
+<u>Jingzhou Fu</u>, Jie Liang, Zhiyong Wu, Yu Jiang. ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/Sedar_ICSE24.pdf))
 - **Sequence-Oriented DBMS Fuzzing** (ICDE 2023) \
 Jie Liang, Yaoguang Chen, Zhiyong Wu, <u>Jingzhou Fu</u>, Mingzhe Wang, Yu Jiang, Xiangdong Huang, Ting Chen, Jiashui Wang, Jiajia Li. ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/LEGO_ICDE2023.pdf))
 - **Griffin: Grammar-Free DBMS Fuzzing** (ASE 2022) \
