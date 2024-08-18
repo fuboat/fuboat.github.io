@@ -26,9 +26,9 @@ Email: fjz22 at mails.tsinghua.edu.cn
 
 ### Publications
 - Data Coverage for Guided Fuzzing (USENIX Security 2024) \
-Mingzhe Wang, Jie Liang, Chijin Zhou, Zhiyong Wu, Jingzhou Fu, Zhuo Su, Qing Liao, Bin Gu, Bodong Wu, Yu Jiang. ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/Data_Security24.pdf))
+Mingzhe Wang, Jie Liang, Chijin Zhou, Zhiyong Wu, <u>Jingzhou Fu</u>, Zhuo Su, Qing Liao, Bin Gu, Bodong Wu, Yu Jiang. ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/Data_Security24.pdf))
 - WingFuzz: Implementing Continuous Fuzzing for DBMSs (ATC 2024) \
-Jie Liang, Zhiyong Wu, Jingzhou Fu, Yiyuan Bai, Qiang Zhang, Yu Jiang. ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/WingFuzz_ATC24.pdf))
+Jie Liang, Zhiyong Wu, <u>Jingzhou Fu</u>, Yiyuan Bai, Qiang Zhang, Yu Jiang. ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/WingFuzz_ATC24.pdf))
 - Mozi: Discovering DBMS Bugs via Configuration-Based Equivalent Transformation (ICSE 2024) \
 Jie Liang, Zhiyong Wu, <u>Jingzhou Fu</u>, Mingzhe Wang, Chengnian Sun, and Yu Jiang. ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/MOZI_ICSE24.pdf))
 - Sedar: Obtaining High-Quality Seeds for DBMS Fuzzing via
