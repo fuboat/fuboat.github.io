@@ -27,7 +27,7 @@ Email: fjz22 at mails.tsinghua.edu.cn
 ### Publications
  - **Understanding and Detecting SQL Function Bugs: Using Simple Boundary Arguments to Trigger Hundreds of DBMS Bugs** (EuroSys 2025) \
 ***Jingzhou Fu**, Jie Liang, Zhiyong Wu, Yanyang Zhao, Shanshan Li, Yu Jiang.*
-   [paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/soft_eurosys25.pdf)
+([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/soft_eurosys25.pdf))
 
  - **Sedar: Obtaining High-Quality Seeds for DBMS Fuzzing via Cross-DBMS SQL Transfer** (ICSE 2024) \
 ***Jingzhou Fu**, Jie Liang, Zhiyong Wu, Yu Jiang.*
