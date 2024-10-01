@@ -37,15 +37,15 @@ Email: fjz22 at mails.tsinghua.edu.cn
 ***Jingzhou Fu**, Jie Liang, Zhiyong Wu, Mingzhe Wang and Yu Jiang.*
    [paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/ASE22-Griffin.pdf)
 
- - CONI: Detecting Database Connector Bugs via State-Aware Test Case Generation (ICSE 2025: 1-12) \
+ - **CONI: Detecting Database Connector Bugs via State-Aware Test Case Generation** (ICSE 2025) \
 *Wenqian Deng, Jie Liang, Zhiyong Wu, **Jingzhou Fu**, Mingzhe Wang, and Yu Jiang.*
 [paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/coni_ICSE25.pdf)
 
- - PUPPY: Finding Performance Degradation Bugs in DBMSs via Limited-Optimization Plan Construction (ICSE 2025: 1-12) \
+ - **PUPPY: Finding Performance Degradation Bugs in DBMSs via Limited-Optimization Plan Construction** (ICSE 2025) \
 *Zhiyong Wu, Jie Liang, **Jingzhou Fu**, Mingzhe Wang, and Yu Jiang.*
 [paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Puppy_ICSE25.pdf)
 
- - THANOS: DBMS Bug Detection via Storage Engine Rotation Based Differential Testing (ICSE 2025: 1-12) \
+ - **THANOS: DBMS Bug Detection via Storage Engine Rotation Based Differential Testing** (ICSE 2025) \
 *Ying Fu, Zhiyong Wu, Yuanliang Zhang, Jie Liang, **Jingzhou Fu**, Yu Jiang Shanshan Li, Xiangke Liao.*
 [paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Thanos_ICSE25.pdf)
 
