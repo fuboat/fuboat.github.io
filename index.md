@@ -25,16 +25,42 @@ My research is focused on **DBMS fuzzing**.
 Email: fjz22 at mails.tsinghua.edu.cn 
 
 ### Publications
-- Data Coverage for Guided Fuzzing (USENIX Security 2024) \
-Mingzhe Wang, Jie Liang, Chijin Zhou, Zhiyong Wu, <u>Jingzhou Fu</u>, Zhuo Su, Qing Liao, Bin Gu, Bodong Wu, Yu Jiang. ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/Data_Security24.pdf))
-- WingFuzz: Implementing Continuous Fuzzing for DBMSs (ATC 2024) \
-Jie Liang, Zhiyong Wu, <u>Jingzhou Fu</u>, Yiyuan Bai, Qiang Zhang, Yu Jiang. ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/WingFuzz_ATC24.pdf))
-- Mozi: Discovering DBMS Bugs via Configuration-Based Equivalent Transformation (ICSE 2024) \
-Jie Liang, Zhiyong Wu, <u>Jingzhou Fu</u>, Mingzhe Wang, Chengnian Sun, and Yu Jiang. ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/MOZI_ICSE24.pdf))
-- Sedar: Obtaining High-Quality Seeds for DBMS Fuzzing via
-  Cross-DBMS SQL Transfer (ICSE 2024) \
-<u>Jingzhou Fu</u>, Jie Liang, Zhiyong Wu, Yu Jiang. ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/Sedar_ICSE24.pdf))
-- Sequence-Oriented DBMS Fuzzing (ICDE 2023) \
-Jie Liang, Yaoguang Chen, Zhiyong Wu, <u>Jingzhou Fu</u>, Mingzhe Wang, Yu Jiang, Xiangdong Huang, Ting Chen, Jiashui Wang, Jiajia Li. ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/LEGO_ICDE2023.pdf))
-- Griffin: Grammar-Free DBMS Fuzzing (ASE 2022) \
-<u>Jingzhou Fu</u>, Jie Liang, Zhiyong Wu, Mingzhe Wang and Yu Jiang. ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/ASE22-Griffin.pdf))
+ - **Understanding and Detecting SQL Function Bugs: Using Simple Boundary Arguments to Trigger Hundreds of DBMS Bugs** (EuroSys 2025) \
+***Jingzhou Fu**, Jie Liang, Zhiyong Wu, Yanyang Zhao, Shanshan Li, Yu Jiang.*
+   [paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/soft_eurosys25.pdf)
+
+ - **Sedar: Obtaining High-Quality Seeds for DBMS Fuzzing via Cross-DBMS SQL Transfer** (ICSE 2024) \
+***Jingzhou Fu**, Jie Liang, Zhiyong Wu, Yu Jiang.*
+   [paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/Sedar_ICSE24.pdf)
+
+ - **Griffin: Grammar-Free DBMS Fuzzing** (ASE 2022) \
+***Jingzhou Fu**, Jie Liang, Zhiyong Wu, Mingzhe Wang and Yu Jiang.*
+   [paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/ASE22-Griffin.pdf)
+
+ - CONI: Detecting Database Connector Bugs via State-Aware Test Case Generation (ICSE 2025: 1-12) \
+*Wenqian Deng, Jie Liang, Zhiyong Wu, **Jingzhou Fu**, Mingzhe Wang, and Yu Jiang.*
+[paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/coni_ICSE25.pdf)
+
+ - PUPPY: Finding Performance Degradation Bugs in DBMSs via Limited-Optimization Plan Construction (ICSE 2025: 1-12) \
+*Zhiyong Wu, Jie Liang, **Jingzhou Fu**, Mingzhe Wang, and Yu Jiang.*
+[paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Puppy_ICSE25.pdf)
+
+ - THANOS: DBMS Bug Detection via Storage Engine Rotation Based Differential Testing (ICSE 2025: 1-12) \
+*Ying Fu, Zhiyong Wu, Yuanliang Zhang, Jie Liang, **Jingzhou Fu**, Yu Jiang Shanshan Li, Xiangke Liao.*
+[paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Thanos_ICSE25.pdf)
+
+ - **Data Coverage for Guided Fuzzing** (USENIX Security 2024 Distinguished Paper Award) \
+*Mingzhe Wang, Jie Liang, Chijin Zhou, Zhiyong Wu, **Jingzhou Fu**, Zhuo Su, Qing Liao, Bin Gu, Bodong Wu, Yu Jiang.*
+([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/Data_Security24.pdf))
+
+ - **WingFuzz: Implementing Continuous Fuzzing for DBMSs** (ATC 2024) \
+*Jie Liang, Zhiyong Wu, **Jingzhou Fu**, Yiyuan Bai, Qiang Zhang, Yu Jiang.*
+([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/WingFuzz_ATC24.pdf))
+
+ - **Mozi: Discovering DBMS Bugs via Configuration-Based Equivalent Transformation** (ICSE 2024) \
+*Jie Liang, Zhiyong Wu, **Jingzhou Fu**, Mingzhe Wang, Chengnian Sun, and Yu Jiang.*
+([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/MOZI_ICSE24.pdf))
+
+ - **Sequence-Oriented DBMS Fuzzing** (ICDE 2023) \
+*Jie Liang, Yaoguang Chen, Zhiyong Wu, **Jingzhou Fu**, Mingzhe Wang, Yu Jiang, Xiangdong Huang, Ting Chen, Jiashui Wang, Jiajia Li.*
+([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/LEGO_ICDE2023.pdf))
