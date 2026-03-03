@@ -9,7 +9,7 @@ description: "Jingzhou Fu Personal Website"
 text_justify: true
 ---
 
-Hello! My name is Jingzhou Fu. 
+Hello! My name is Jingzhou Fu (符景洲). 
 I am a PhD student at the [WingTecher Lab](http://wingtecher.com/homeen) in Tsinghua University, supervised by Professor [Yu Jiang](https://sites.google.com/site/jiangyu198964/home).
 My research is focused on DBMS fuzzing. I have detected over 400 bugs in widely used DBMSs (e.g., MySQL, PostgreSQL, SQLite, and TiDB), including crashes, logic bugs, and access-control bugs, with 80+ CVEs assigned.
 
@@ -62,4 +62,4 @@ Email: fjz22 at mails.tsinghua.edu.cn
 # Services
 
 * Programming Fundamentals, Teaching Assistant, Tsinghua University, 2023
-* Class Counselor, School of Software, Tsinghua University, 2022, 2023, 2024, 2025, 2026
+* Class Counselor (带班辅导员), School of Software, Tsinghua University, 2022, 2023, 2024, 2025, 2026
