@@ -13,7 +13,7 @@ Hello! My name is Jingzhou Fu (符景洲).
 I am a PhD student at the [WingTecher Lab](http://wingtecher.com/homeen) in Tsinghua University, supervised by Professor [Yu Jiang](https://sites.google.com/site/jiangyu198964/home).
 My research is focused on DBMS fuzzing. I have detected over 400 bugs in widely used DBMSs (e.g., MySQL, PostgreSQL, SQLite, and TiDB), including crashes, logic bugs, and access-control bugs, with 80+ CVEs assigned.
 
-<span style="color: #d32f2f;"><strong>I am on the 2026–2027 job market and expect to receive my Ph.D. in June 2027. Please feel free to contact me at <u>fjz22@mails.tsinghua.edu.cn</u> regarding relevant opportunities.</strong></span>
+<span style="color: #d32f2f;"><strong>I will be on the 2026–2027 job market and expect to receive my Ph.D. in June 2027. Please feel free to contact me at <u>fjz22@mails.tsinghua.edu.cn</u> .</strong></span>
 
 Email: fjz22 at mails.tsinghua.edu.cn 
 
