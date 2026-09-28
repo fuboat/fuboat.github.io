@@ -19,6 +19,10 @@ Email: fjz22 at mails.tsinghua.edu.cn
 
 # Selected Publications ([Full Publication List](/publications/))
 
+* [<span style="color: #52adc8;"><strong>CCS 2026</strong></span>] **Accio: Detecting Privilege Escalation Vulnerabilities in DBMSs via Minimum Privilege Set Calculation** ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_26/accio_ccs26.pdf))<br><u>Jingzhou Fu</u>, Zongrui Peng, Jie Liang, Zhiyong Wu, Chi Zhang, Yu Jiang.
+
+* [<span style="color: #52adc8;"><strong>OOPSLA 2026</strong></span>] **Beacon: Detecting Broken Access Control Vulnerabilities in DBMSs via System Catalog Consistency Validation** ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_26/beacon_oopsla26.pdf))<br>Zongrui Peng*, <u>Jingzhou Fu*</u>, Zhiyong Wu, Jie Liang, Xiangdong Huang, Dalong Shi, Yu Jiang.
+
 * [<span style="color: #52adc8;"><strong>EuroSys 2025</strong></span>] **Understanding and Detecting SQL Function Bugs: Using Simple Boundary Arguments to Trigger Hundreds of DBMS Bugs** ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/soft_eurosys25.pdf))<br><u>Jingzhou Fu</u>, Jie Liang, Zhiyong Wu, Yanyang Zhao, Shanshan Li, Yu Jiang.
 
 * [<span style="color: #52adc8;"><strong>ICSE 2024</strong></span>] **Sedar: Obtaining High-Quality Seeds for DBMS Fuzzing via Cross-DBMS SQL Transfer** ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/Sedar_ICSE24.pdf))<br><u>Jingzhou Fu</u>, Jie Liang, Zhiyong Wu, and Yu Jiang.
